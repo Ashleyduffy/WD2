@@ -102,9 +102,7 @@ footer p {
   color:white;
   margin:0;
 }
-.top{
-	grid-class-area:"top";
-}
+
 
 /*---------------------------Mobile Layout Styles----------------------------*/
 .container1 { /*for index.html*/
