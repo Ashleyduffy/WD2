@@ -219,6 +219,17 @@ footer p {
     "nav main aside"
     "footer footer footer";
     }
-	
+.container2 { /*for blog.html*/
+  display: grid;
+  grid-template-columns:auto 1fr 1.5fr;
+  grid-gap:.5em;
+  margin:1%;
+  grid-template-areas:
+    "header header header"
+    "nav main top"
+    "nav main middle"
+    "nav main bottom"
+    "footer footer footer";   
+    }
 
 	}
