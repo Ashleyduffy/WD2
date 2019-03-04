@@ -221,6 +221,7 @@ footer p {
     "nav main aside"
     "footer footer footer";
     }
+	@media only screen and (min-width: 960px)
 .container2 { /*for blog.html*/
   display: grid;
   grid-template-columns:auto 1fr 1.5fr;
