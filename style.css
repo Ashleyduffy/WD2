@@ -243,5 +243,12 @@ footer p {
     "nav main bottom"
     "footer footer footer";   
     }
+	
+	.container3 { /*for special.html*/
+		 display: grid;
+  grid-template-columns:auto 1fr 1.5fr;
+  grid-gap:.5em;
+  margin:1%;
+	}
 
 	}
