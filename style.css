@@ -167,6 +167,9 @@ footer p {
     "fig2 fig2"
     "footer footer";   
     }
+.nestedgird
+grid-template-areas:
+"section fig1";
 
 /*This stuff is for the hamburger menu*/
 .toggleNav {
@@ -227,6 +230,9 @@ footer p {
     "fig2 fig2"
     "footer footer";   
     }
+	.nestedgird
+grid-template-areas:
+"section fig1";
 
 
 /* Below will change from hamburger menu to side navigation*/
@@ -282,6 +288,9 @@ footer p {
     "fig2 fig2"
     "footer footer";   
     }
+	.nestedgird
+grid-template-areas:
+"section fig1";
 		
 	}
 
