@@ -174,10 +174,10 @@ footer p {
     "fig2 fig2"
     "footer footer";   
     }
-.nestedgird
+.nestedgrid{
 grid-template-areas:
 "section fig1";
-
+}
 /*This stuff is for the hamburger menu*/
 .toggleNav {
     display:grid; /*This is what allows the hamburger icon and "Menu" to display*/
@@ -237,10 +237,11 @@ grid-template-areas:
     "fig2 fig2"
     "footer footer";   
     }
-	.nestedgird
+	.nestedgrid{
 grid-template-areas:
-"section fig1";
-
+	"section"
+	"fig1";
+	}
 
 /* Below will change from hamburger menu to side navigation*/
   
@@ -295,7 +296,7 @@ grid-template-areas:
     "fig2 fig2"
     "footer footer";   
     }
-	.nestedgird
+	.nestedgrid{
 grid-template-areas:
 "section fig1";
 		
