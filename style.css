@@ -115,6 +115,13 @@ article p {
 section{
 	grid-area:section;
 }
+.fig1{
+gird-area-fig1	
+}
+
+.fig2{
+grid-area-fig2	
+}
 
 footer {
   grid-area:footer;
