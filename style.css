@@ -108,8 +108,12 @@ article p {
 .middle {
 	grid-area:middle;
 }
+
 .bottom {
 	grid-area:bottom;
+}
+section{
+	grid-area:section;
 }
 
 footer {
@@ -152,6 +156,18 @@ footer p {
     "bottom"
     "footer";   
     }
+.container3 { /*for special.html*/
+  display: grid;
+  grid-template-columns:100%;
+  grid-gap:.5em;
+  margin:1%;
+  grid-template-areas:
+    "header header"
+    "nav main"
+    "fig2 fig2"
+    "footer footer";   
+    }
+
 /*This stuff is for the hamburger menu*/
 .toggleNav {
     display:grid; /*This is what allows the hamburger icon and "Menu" to display*/
@@ -200,6 +216,17 @@ footer p {
     "bottom bottom"
     "footer footer";
     }
+	.container3 { /*for special.html*/
+  display: grid;
+  grid-template-columns:100%;
+  grid-gap:.5em;
+  margin:1%;
+  grid-template-areas:
+    "header header"
+    "nav main"
+    "fig2 fig2"
+    "footer footer";   
+    }
 
 
 /* Below will change from hamburger menu to side navigation*/
@@ -245,10 +272,17 @@ footer p {
     }
 	
 	.container3 { /*for special.html*/
-		 display: grid;
-  grid-template-columns:auto 1fr 1.5fr;
+  display: grid;
+  grid-template-columns:100%;
   grid-gap:.5em;
   margin:1%;
+  grid-template-areas:
+    "header header"
+    "nav main"
+    "fig2 fig2"
+    "footer footer";   
+    }
+		
 	}
 
 	}
