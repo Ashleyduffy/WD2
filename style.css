@@ -230,9 +230,9 @@ grid-template-areas:
     "bottom bottom"
     "footer footer";
     }
-	.container3 { /*for special.html*/
+  .container3 { /*for special.html*/
   display: grid;
-  grid-template-columns:100%;
+  grid-template-columns:auto 1fr;
   grid-gap:.5em;
   margin:1%;
   grid-template-areas:
@@ -291,7 +291,7 @@ grid-template-areas:
 	
 	.container3 { /*for special.html*/
   display: grid;
-  grid-template-columns:100%;
+  grid-template-columns:auto 1fr;
   grid-gap:.5em;
   margin:1%;
   grid-template-areas:
@@ -303,7 +303,5 @@ grid-template-areas:
 	.nestedgrid{
 grid-template-areas:
 "section fig1";
-		
 	}
-
 	}
