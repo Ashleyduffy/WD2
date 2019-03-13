@@ -116,13 +116,17 @@ section{
 	grid-area:section;
 }
 .fig1{
-gird-area:fig1;	
+grid-area:fig1;	
 }
 
 .fig2{
 grid-area:fig2;	
 }
-
+.figcaption{
+color:navy;
+padding:5px;
+font-weight:bold;
+}
 footer {
   grid-area:footer;
   background:rgba(0,0,0,.2);
