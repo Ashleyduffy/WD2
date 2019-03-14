@@ -125,7 +125,7 @@ grid-area:fig1;
 .fig2{
 grid-area:fig2;	
 }
-.figcaption{
+figcaption{
 color:navy;
 padding:5px;
 font-weight:bold;
