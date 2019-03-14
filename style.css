@@ -304,7 +304,7 @@ grid-template-areas:
     "fig2 fig2"
     "footer footer";   
     }
-	.nestedgrid{
+ .nestedgrid{
 grid-template-areas:
 "section fig1";
 	}
