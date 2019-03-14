@@ -115,6 +115,9 @@ article p {
 section{
 	grid-area:section;
 }
+figure {
+	background:rgba(0,0,0,.2);
+}
 .fig1{
 grid-area:fig1;	
 }
