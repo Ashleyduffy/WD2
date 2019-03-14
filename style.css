@@ -120,7 +120,8 @@ figure {
 	margin:0;
 }
 .fig1{
-grid-area:fig1;	
+grid-area:fig1;
+margin:auto;
 }
 
 .fig2{
