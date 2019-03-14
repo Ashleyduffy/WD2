@@ -117,6 +117,7 @@ section{
 }
 figure {
 	background:rgba(0,0,0,.2);
+	margin:0;
 }
 .fig1{
 grid-area:fig1;	
