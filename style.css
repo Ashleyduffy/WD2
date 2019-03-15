@@ -184,6 +184,7 @@ footer p {
     "footer footer";   
     }
 .nestedgrid{
+display:grid;
 grid-template-areas:
 "section fig1";
 }
