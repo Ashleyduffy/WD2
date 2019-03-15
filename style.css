@@ -118,6 +118,7 @@ section{
 figure {
 	background:rgba(0,0,0,.2);
 	margin:0;
+	text-align:center;
 }
 .fig1{
 grid-area:fig1;
