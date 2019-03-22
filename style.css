@@ -159,6 +159,25 @@ video {
     justify-content:space-around;
 }
 
+form{
+	background-color:darkseagreen;
+	width:90%;
+	margin:auto;
+	color:white;
+	padding:10px;
+}
+input {
+  margin: 1px 0 10px 0;
+}
+
+.div1{
+	grid-area:div1;
+}
+.div2{
+	grid-area:div2;
+
+
+
 
 /*---------------------------Mobile Layout Styles----------------------------*/
 .container1 { /*for index.html*/
