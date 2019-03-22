@@ -217,6 +217,16 @@ input {
     "fig2 fig2"
     "footer footer";   
     }
+.container4 { /*for destinationf.html and contact.html*/
+  display: grid;
+  grid-template-columns:100%;
+  grid-gap:.5em;
+  margin:1%;
+  grid-template-areas:
+    "header header"
+    "nav main"
+    "footer footer";   
+    }
 .nestedgrid{
 display:grid;
 grid-template-areas:
@@ -281,6 +291,17 @@ grid-template-areas:
     "fig2 fig2"
     "footer footer";   
     }
+  .container4 { /*for destination.html and contact.html*/
+  display: grid;
+  grid-template-columns:auto 1fr;
+  grid-gap:.5em;
+  margin:1%;
+  grid-template-areas:
+    "header header"
+    "nav main"
+    "footer footer";   
+    }
+
 .nestedgrid{
 grid-template-areas:
 	"section"
@@ -338,6 +359,17 @@ grid-template-areas:
     "header header"
     "nav main"
     "fig2 fig2"
+    "footer footer";   
+    }
+
+	.container4 { /*for destination.html and contact*/
+  display: grid;
+  grid-template-columns:auto 1fr;
+  grid-gap:.5em;
+  margin:1%;
+  grid-template-areas:
+    "header header"
+    "nav main"
     "footer footer";   
     }
  .nestedgrid{
