@@ -350,7 +350,7 @@ grid-template-areas:
     "footer footer footer";   
     }
 	
-	.container3 { /*for special.html*/
+ .container3 { /*for special.html*/
   display: grid;
   grid-template-columns:auto 1fr;
   grid-gap:.5em;
@@ -362,7 +362,7 @@ grid-template-areas:
     "footer footer";   
     }
 
-	.container4 { /*for destination.html and contact*/
+.container4 { /*for destination.html and contact*/
   display: grid;
   grid-template-columns:auto 1fr;
   grid-gap:.5em;
