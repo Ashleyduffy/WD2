@@ -217,7 +217,7 @@ input {
     "fig2 fig2"
     "footer footer";   
     }
-.container4 { /*for destinationf.html and contact.html*/
+.container4 { /*for destination.html and contact.html*/
   display: grid;
   grid-template-columns:100%;
   grid-gap:.5em;
@@ -373,7 +373,13 @@ grid-template-areas:
     "footer footer";   
     }
  .nestedgrid{
-grid-template-areas:
-"section fig1";
+  display:grid;
+  grid-template-areas:
+  "section fig1";
 	}
+.nestedgrid2 {
+	display:grid;
+	grid-template-areas:
+	"div1 div2";
 	}
+}
