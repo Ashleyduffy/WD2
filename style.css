@@ -176,6 +176,10 @@ input {
 .div2{
 	grid-area:div2;
 }
+.button
+padding:5px;
+background color:navy;
+color:lightseagreen;
 
 
 
