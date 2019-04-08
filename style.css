@@ -176,10 +176,23 @@ input {
 .div2{
 	grid-area:div2;
 }
-.button
+.button{
 padding:5px;
 background color:navy;
 color:lightseagreen;
+}
+
+.call{
+	width: 60%;
+	background color: lightseagreen;
+	color:navy;
+}
+.phone{
+	width:60%;
+	background color:navy;
+	color:lightseagreen;
+}
+	
 
 
 
