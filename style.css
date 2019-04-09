@@ -182,16 +182,25 @@ background color:navy;
 color:lightseagreen;
 }
 
-.call{
-	width: 60%;
-	background color: lightseagreen;
-	color:navy;
+.call {
+    color:navy;
+    text-align:center;
+    font-size:2em;
+    background-color:darkseagreen;
+    width:60%;
+    padding: 5px 0 0 0;
+    margin:10px auto 0 auto;
+    cursor:pointer;
 }
+
 .phone{
-	width:60%;
-	background color:navy;
-	color:lightseagreen;
+    color:darkseagreen;
+    background-color:navy;
+    padding:5px;
+    text-align:center;
+    font-size:.75em;
 }
+
 	
 
 
