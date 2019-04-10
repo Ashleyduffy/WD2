@@ -238,7 +238,7 @@ color:lightseagreen;
   grid-gap:.5em;
   margin:1%;
   grid-template-areas:
-    "header header"
+    "header"
     "nav"
     "main" 
     "fig2"
