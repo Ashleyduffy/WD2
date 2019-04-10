@@ -241,8 +241,8 @@ color:lightseagreen;
     "header header"
     "nav"
     "main" 
-    "fig2 fig2"
-    "footer footer";   
+    "fig2"
+    "footer";   
     }
 .container4 { /*for destination.html and contact.html*/
   display: grid;
@@ -250,10 +250,10 @@ color:lightseagreen;
   grid-gap:.5em;
   margin:1%;
   grid-template-areas:
-    "header header"
+    "header"
     "nav"
     "main"
-    "footer footer";   
+    "footer";   
     }
 .nestedgrid{
 display:grid;
