@@ -239,7 +239,8 @@ color:lightseagreen;
   margin:1%;
   grid-template-areas:
     "header header"
-    "nav main"
+    "nav"
+    "main" 
     "fig2 fig2"
     "footer footer";   
     }
@@ -250,7 +251,8 @@ color:lightseagreen;
   margin:1%;
   grid-template-areas:
     "header header"
-    "nav main"
+    "nav"
+    "main"
     "footer footer";   
     }
 .nestedgrid{
