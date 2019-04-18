@@ -201,6 +201,11 @@ color:lightseagreen;
     font-size:.75em;
 }
 
+.shadow{
+	box-shadow: 10px;
+	10px 5px #888888;
+}
+
 	
 
 
