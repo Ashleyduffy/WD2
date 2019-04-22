@@ -200,6 +200,7 @@ color:lightseagreen;
     padding:5px;
     text-align:center;
     font-size:.75em;
+    display:none;
 }
 
 .shadow {
