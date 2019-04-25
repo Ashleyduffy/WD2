@@ -6,12 +6,10 @@
 $('.call').click(function() {
  $('phone'.slideToggle('slow');
    });
- $('.button'.click(
-  function(){
+ $('.button'.click(function(){
    $(this).removeClass('shadow');
   }),
-   $('.button').mouseleave(
-  function(){
+   $('.button').mouseleave(function(){
    $(this).addClass('shadow');
   });
    });
