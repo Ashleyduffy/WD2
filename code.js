@@ -2,9 +2,9 @@
       $('.toggleNav').click(function() {
         $('#flex-nav ul').toggleClass('open');
       });
-    });
+
 $('.call').click(function() {
- $('phone'.slideToggle('slow');
+ $('.phone'.slideToggle('slow');
    });
  $('.button'.click(function(){
    $(this).removeClass('shadow');
